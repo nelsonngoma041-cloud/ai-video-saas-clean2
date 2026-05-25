@@ -7,14 +7,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "next": "14.2.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   }
-}export default function Home() {
-  return (
-    <div style={{ padding: 40 }}>
-      <h1>AI Video SaaS Running</h1>
-    </div>
-  );
 }
